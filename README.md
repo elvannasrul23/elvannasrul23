@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Elvan</h1>
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=1C542C&center=true&width=435&lines=Hello+Everyone!;My+Name+Elvan+Nasrul;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Vas Running Text" />
+    </a>
+</h1>
 <h3 align="center">An Enthusiastic Informatics Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvannasrul23&label=Profile%20views&color=0e75b6&style=flat" alt="elvannasrul23" /> </p>
