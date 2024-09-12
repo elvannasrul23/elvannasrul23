@@ -1,13 +1,13 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira&pause=1000&color=66CC80&center=true&width=500&lines=Hello+Everyone!;Elvan+Nasrul+is+here...;Welcome+to+My+Profile+GitHub!;Nice+to+Meet+You:)" alt="Van's Running Text" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira&pause=800&color=66CC80&center=true&width=500&lines=Hello+Everyone!;Elvan+Nasrul+is+here...;Welcome+to+My+Profile+GitHub!;Nice+to+Meet+You:)" alt="Van's Running Text" />
     </a>
 </h1>
 
 
 # 💫 About Me:
-I am an enthusiastic Informatics Engineering Student  :<br>🌱 I’m currently learning Machine Learning and Web Development<br>
+I am an enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learning Machine Learning and Web Development<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elvannasrul) 
