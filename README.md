@@ -1,9 +1,10 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=1C542C&center=true&width=500&lines=Hello+Everyone!;Elvan+Nasrul+is+here;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Van's Running Text" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira&pause=1000&color=66CC80&center=true&width=500&lines=Hello+Everyone!;Elvan+Nasrul+is+here...;Welcome+to+My+Profile+GitHub!;Nice+to+Meet+You:)" alt="Van's Running Text" />
     </a>
 </h1>
+
 
 # 💫 About Me:
 I am an enthusiastic Informatics Engineering Student  :<br>🌱 I’m currently learning Machine Learning and Web Development<br>
