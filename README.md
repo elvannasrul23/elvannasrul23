@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/el23van" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="el23van" height="30" width="40" /></a>
 <a href="https://instagram.com/elvannasrul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvannasrul" height="30" width="40" /></a>
 <a href="https://medium.com/@el23ul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@el23ul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elvannasrul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elvannasrul23" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@elvannasrul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elvannasrul23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
