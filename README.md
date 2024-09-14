@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I am an enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learning Machine Learning and Web Development<br>
+An enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learning Machine Learning and Web Development<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elvannasrul) 
