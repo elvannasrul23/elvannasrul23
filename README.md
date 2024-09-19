@@ -6,7 +6,7 @@
 </h1>
 
 
-# 💫 About Me:
+## 💫 About Me:
 An enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learning Machine Learning and Web Development<br>
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ An enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learni
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@el23ul) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@elvannasrul23) 
 
-# 💻 Tech Stack Study:
+## 💻 Tech Stack Study:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -32,7 +32,7 @@ An enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learni
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elvannasrul23&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elvannasrul23&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvannasrul23&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -40,7 +40,7 @@ An enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learni
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elvannasrul23&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=elvannasrul23&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
