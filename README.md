@@ -47,3 +47,9 @@ An enthusiastic Informatics Engineering Student  <br>🌱 I’m currently learni
 [![](https://visitcount.itsvg.in/api?id=el&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
+## 🎲 Play with Me
+<img src="https://raw.githubusercontent.com/elvannasrul23/elvannasrul23/output/snake.svg" alt="Snake animation" />
+
+
+
+
